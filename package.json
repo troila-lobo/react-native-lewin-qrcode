@@ -1,5 +1,5 @@
 {
-  "name": "react-native-lewin-qrcode",
+  "name": "@troila/react-native-lewin-qrcode",
   "version": "1.0.2",
   "description": "二维码识别，选择相册里面的一张照片进行识别二维码",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LewinJun/react-native-lewin-qrcode.git"
+    "url": "git+https://github.com/troila-lobo/react-native-lewin-qrcode.git"
   },
   "keywords": [
     "qrcode",
@@ -21,7 +21,7 @@
   "author": "lewin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LewinJun/react-native-lewin-qrcode/issues"
+    "url": "https://github.com/troila-lobo/react-native-lewin-qrcode/issues"
   },
-  "homepage": "https://github.com/LewinJun/react-native-lewin-qrcode#readme"
+  "homepage": "https://github.com/troila-lobo/react-native-lewin-qrcode#readme"
 }
